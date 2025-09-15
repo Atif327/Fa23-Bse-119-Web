@@ -1,0 +1,38 @@
+#traffic
+{
+    height: 170px;
+    width: 70px;
+    background-color: black;
+    padding-left: 24px;
+    padding-top: 10px;
+    border-radius: 10px;
+    
+}
+#red
+{
+    height: 40px;
+    width: 40px;
+    border-radius: 49%;
+    background-color: red;
+    margin: 10 auto;
+}
+
+
+#yellow
+{
+    height: 40px;
+    width: 40px;
+    border-radius: 49%;
+    background-color: yellow;
+    margin: 10  auto;
+   
+}
+
+#green
+{
+    width: 40px;
+   height: 40px;
+    background-color: green;
+    border-radius: 49%;
+    margin: 10 auto;
+}

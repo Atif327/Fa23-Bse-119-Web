@@ -1,17 +1,47 @@
-h1{
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+
+#amazon
+{
+    height: 70px;
+    background-color: black;
+    color: white;
+}
+
+
+button
+{
+    background-color: #f08804;
+}
+#Logo
+{
+    color: #f08804;
+    font-size: 24px;
+}
+
+a{
+    margin-right: 180px;
+}
+
+.con
+{
+    height: 100px;
+    width: 100px;
+    border: 2px,solid,black;
+    margin: 10px;
+}
+
+footer
+{
+    background-color: black;
     text-align: center;
 }
-p {
 
-    text-transform: capitalize;
-    font-family: 'Times New Roman', Times, serif;
-}
-
-#outer
+.c
 {
-    font-size: 24px
-}
-#inner
-{
-    font-size: 10px;
+    height: 478px;
 }
